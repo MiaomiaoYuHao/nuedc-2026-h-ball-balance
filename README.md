@@ -41,7 +41,7 @@ pip install -r requirements.txt
 克隆时给它一个合法名字即可（推荐 `hball`）：
 
 ```bash
-git clone https://github.com/lina130/nuedc-2026-h-ball-balance.git hball
+git clone https://github.com/MiaomiaoYuHao/nuedc-2026-h-ball-balance.git hball
 cd hball/..            # 回到 hball 的上一级目录
 python -m hball --help
 ```
