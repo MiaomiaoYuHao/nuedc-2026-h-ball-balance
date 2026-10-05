@@ -1,0 +1,7 @@
+# 视觉与数值
+numpy>=1.24
+opencv-python>=4.8
+
+# 树莓派专用（仅在 Linux 上安装）
+picamera2>=0.3 ; sys_platform == "linux"
+lgpio>=0.2.2 ; sys_platform == "linux"
